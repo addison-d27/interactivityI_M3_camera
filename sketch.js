@@ -12,7 +12,7 @@ let rainNum = 50;
 
 //variable for rain
 let lineXone = 0;
-let lineYone = 0;
+let lineYone = 2;
 
 //variable for flowers
 let flowerPosition = [];
