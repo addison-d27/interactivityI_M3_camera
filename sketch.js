@@ -11,7 +11,7 @@ let rainColor = [];
 let rainNum = 50;
 
 //variable for rain
-let lineXone = 0;
+let lineXone = 5;
 let lineYone = 0;
 
 //variable for flowers
